@@ -96,6 +96,9 @@ Our draft training seems converged but has not achieved the SOTA point stated in
 
 ### **Round 3**
 
+Data: train/test/validation split[70000:7000:7000] \
+Epoch: 5
+
 ```m
 {
     'eval_loss': 3.1328420639038086,
